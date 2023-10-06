@@ -4,7 +4,7 @@
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=TaytosD&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-TaytosD.vercel.app/api/top-langs/?username=TaytosDl&show_icons=true&theme=radical&layout=compact" />
- </div>
+</div>
  
  &nbsp;
  &nbsp;
@@ -49,4 +49,4 @@
 </div>&nbsp;&nbsp;
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=327DBE&height=120&section=footer"/>
