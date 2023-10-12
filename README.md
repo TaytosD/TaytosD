@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=520ca0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Davi+Samuel;I'm+19+years+old;I'm+from+Brazil,+MG;I+study+Systems+Analysis+and+Development+at+UNA;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <p align="center">I ❤️ solve great challenges using tech. <br><br> Backend development, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>backend low-level developer</strong>.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
