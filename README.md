@@ -2,8 +2,8 @@
 <p align="center">I ❤️ solve great challenges using tech. <br><br> Backend development, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>backend low-level developer</strong>.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=TaytosD&theme=transparent&mode=weekly" />
-<img width=55% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaytosD&layout=compact&langs_count=7&theme=transparent"/>
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=TaytosD&theme=tokyonight&mode=weekly" />
+<img width=55% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaytosD&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
  &nbsp;
