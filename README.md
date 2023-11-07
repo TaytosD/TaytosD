@@ -49,5 +49,3 @@
 </div>&nbsp;&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=327DBE&height=120&section=footer"/>
-
-![Snake animation](https://github.com/TaytosD/TaytosD/blob/output/github-contribution-grid-snake.svg)
